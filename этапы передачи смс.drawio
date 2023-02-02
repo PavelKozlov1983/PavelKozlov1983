@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T13:47:59.710Z" agent="5.0 (Macintosh)" version="20.8.13" etag="JFAaD3ABGflZlRynCa_8" type="github"><diagram name="Страница 1" id="pPNkzoxF_6KexxTrnMeP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-02T13:54:19.041Z" agent="5.0 (Macintosh)" etag="zayjbRL698rm0ThIekLE" version="20.8.13" type="github">
+  <diagram name="Страница 1" id="pPNkzoxF_6KexxTrnMeP">
+    <mxGraphModel dx="1427" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-1" value="SME инициатор" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-7" value="Отчет о представлении" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="tuJj8xAgz_WQacHfPwsT-2" target="tuJj8xAgz_WQacHfPwsT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-9" value="Отчет о статусе" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="tuJj8xAgz_WQacHfPwsT-2" target="tuJj8xAgz_WQacHfPwsT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="160" />
+              <mxPoint x="100" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-2" value="SMSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-8" value="Отчет о доставке" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="tuJj8xAgz_WQacHfPwsT-3" target="tuJj8xAgz_WQacHfPwsT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-3" value="SME получатель" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-4" value="Представление" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="tuJj8xAgz_WQacHfPwsT-1" target="tuJj8xAgz_WQacHfPwsT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuJj8xAgz_WQacHfPwsT-5" value="Доставка" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="tuJj8xAgz_WQacHfPwsT-2" target="tuJj8xAgz_WQacHfPwsT-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
