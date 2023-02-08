@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T09:52:44.757Z" agent="5.0 (Macintosh)" etag="tuoQMqYdutQAGB-brwRm" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T20:24:05.887Z" agent="5.0 (Macintosh)" etag="YV2TiPpSZ2WUsW4V16ge" version="20.8.13" type="github">
   <diagram name="Страница 1" id="9PAOowngYXVebXmvG1H0">
     <mxGraphModel dx="1427" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="D13HqMTGhr0uNa7FewxC-4" value="&lt;div&gt;SMSC Транзитная компания&lt;/div&gt;&lt;div&gt;IP 138.201.20.86&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D13HqMTGhr0uNa7FewxC-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="440" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="D13HqMTGhr0uNa7FewxC-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="480" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="D13HqMTGhr0uNa7FewxC-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="465" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D13HqMTGhr0uNa7FewxC-8" value="&lt;div&gt;SMSC&lt;/div&gt;&lt;div&gt;Oricel Cote d&quot;Ivoire&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
